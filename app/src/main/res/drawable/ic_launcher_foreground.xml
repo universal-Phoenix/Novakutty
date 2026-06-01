@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Cyber Ring -->
+    <path
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54 24 A 30 30 0 1 1 53.99 24" />
+
+    <!-- Technical alignment hash marks -->
+    <path
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M 54 16 L 54 22 M 54 86 L 54 92 M 16 54 L 22 54 M 86 54 L 92 54" />
+
+    <!-- Segmented Inner Synaptic Tracker -->
+    <path
+        android:strokeColor="#05FF78"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M 54 38 A 16 16 0 1 1 53.99 38" />
+
+    <!-- Core Dragon Flare Emblem (Glow geometric cyber crest) -->
+    <path
+        android:fillColor="#05FF78"
+        android:pathData="M 54 44 L 63 60 L 45 60 Z" />
+        
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M 54 51 A 3 3 0 1 1 53.9 51" />
+</vector>

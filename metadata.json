@@ -1,0 +1,8 @@
+{
+  "name": "Nova: Universal Dragon",
+  "description": "A powerful digital platform created by Aslam, serving as the core of project Universal Dragon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
